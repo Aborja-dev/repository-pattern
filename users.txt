@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "name": "Dave",
+    "email": "x9eYRsCH@email.com",
+    "password": "123456",
+    "refreshtoken": null,
+    "resettoken": null
+  },
+  {
+    "id": 3,
+    "name": "Grace",
+    "email": "Ho54tGiE@email.com",
+    "password": "123456",
+    "refreshtoken": null,
+    "resettoken": null
+  },
+  {
+    "id": 1,
+    "name": "fulanito",
+    "email": "e795DAXW@email.com",
+    "password": "123456",
+    "refreshtoken": null,
+    "resettoken": null
+  }
+]
